@@ -1,0 +1,41 @@
+{
+    "extensionName": {
+       "message": "Fake Youtube Premium"
+    },
+    "extensionNameBeta": {
+       "message": "Fake Youtube Premium"
+    },
+    "legendSettings": {
+       "message": "Settings"
+    },
+    "linkChangelog": {
+       "message": "Change Log"
+    },
+    "linkDonate": {
+       "message": "Donate"
+    },
+    "linkFAQ": {
+       "message": "FAQ"
+    },
+    "linkHelp": {
+       "message": "Help"
+    },
+    "linkWebsite": {
+       "message": "Website"
+    },
+    "textDeveloper": {
+       "message": "by anubiskun"
+    },
+    "textLikesDisabled": {
+       "message": "Disabled by Owner"
+    },
+    "textTempUnavailable": {
+       "message": "Temporarily Unavailable"
+    },
+    "textUpdate": {
+       "message": "Update to"
+    },
+    "whatsnew": {
+       "message": "What's new"
+    }
+ }
