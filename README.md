@@ -25,6 +25,10 @@
 </p> 
 
 
+<p align="center">
+  <img src="preview.PNG" alt="anubiskun">
+</p>
+
 # HOW TO INSTALL
 1. clone or Download zip this repository
 2. if you download zip extract this file zip
